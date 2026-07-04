@@ -1,39 +1,54 @@
 <h1 align="center">Hi 👋, I'm Taruna Jain</h1>
 
 <h3 align="center">
-Engineering Student | AI Enthusiast | CyberSecurity 
+B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Engineering Student
-- 💻 Passionate about Software Development
-- 🤖 Interested in Artificial Intelligence
-- 🌱 Currently learning Python, Web Development and AI
-- 🚀 Building real-world projects
-- 📫 Reach me at: tarunajain075@gmail.com
+- 🎓 B.Tech Student specializing in Cybersecurity
+- 💻 Passionate about Software Development and Artificial Intelligence
+- 🔒 Interested in Cybersecurity, AI Security, and Secure Application Development
+- 🌱 Currently learning Python, Web Development, Cloud Security, and DevSecOps
+- 🚀 Building real-world AI and Cybersecurity projects
+- 📫 Reach me at **tarunajain075@gmail.com**
 
 ---
+## 🚀 Projects
 
-## 🚀 Featured Projects
+### 🛡️ AI SecureOps
+An AI-powered Security Operations platform with packet analysis, anomaly detection, and vulnerability assessment.
 
-- 🛡️ AI SecureOps
-- 🤖 AI Vulnerability Scanner
-- 🔍 Python Security Audit Tool
-- 💊 Pharmacy Management System
+### 🤖 AI Vulnerability Scanner
+AI-assisted vulnerability analysis and remediation platform.
+
+### 🔍 Python Security Audit Tool
+Automated Python source code security auditing and reporting.
+
+### 💊 Pharmacy Management System
+A full-stack pharmacy management application for inventory and billing.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-Python • Java • HTML • CSS • JavaScript • Git • GitHub • VS Code
+- Python
+- HTML5
+- Git & GitHub
+- Linux
+- Flask
+- Streamlit
+- VS Code
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Career Goal
 
-- LinkedIn
-- GitHub
-- Email
+Aspiring Cybersecurity Engineer passionate about building secure, intelligent, and scalable software solutions.
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email: **tarunajain075@gmail.com**
