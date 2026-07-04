@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
 </p><img width="1983" height="793" alt="ChatGPT Image Jul 4, 2026 at 07_39_03 PM" src="https://github.com/user-attachments/assets/3c1eb649-f4c9-42b1-bc57-3f11b8a1189a" />
 
 <h1 align="center">Hi 👋, I'm Taruna Jain</h1>
