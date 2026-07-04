@@ -42,6 +42,15 @@ A full-stack pharmacy management application for inventory and billing.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,,git,github,linux,flask,vscode,streamlit,mysql" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarunajain07&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunajain07&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 ---
 
 ## 🎯 Career Goal
