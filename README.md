@@ -18,13 +18,13 @@ B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
 ---
 ## 🚀 Projects
 
-### 🛡️ AI SecureOps
+### 🛡️ AI SecureOps ( in progress )
 An AI-powered Security Operations platform with packet analysis, anomaly detection, and vulnerability assessment.
 
-### 🤖 AI Vulnerability Scanner
+### 🤖 AI Vulnerability Scanner ( in progress )
 AI-assisted vulnerability analysis and remediation platform.
 
-### 🔍 Python Security Audit Tool
+### 🔍 Python Security Audit Tool ( in progress ) 
 Automated Python source code security auditing and reporting.
 
 ### 💊 Pharmacy Management System
