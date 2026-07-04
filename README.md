@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taruna Jain</h1>
 
 <h3 align="center">
-Engineering Student | AI Enthusiast | Software Developer
+Engineering Student | AI Enthusiast | CyberSecurity 
 </h3>
 
 ---
