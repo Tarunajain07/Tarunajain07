@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Taruna+Jain;B.Tech+Cybersecurity+Student;AI+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi 👋, I'm Taruna Jain</h1>
-
+<h2 align="center">
+Welcome to my GitHub 👋
+</h2>
 <h3 align="center">
 B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
 </h3>
@@ -36,16 +37,11 @@ A full-stack pharmacy management application for inventory and billing.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-- Python
-- HTML5
-- Git & GitHub
-- Linux
-- Flask
-- Streamlit
-- VS Code
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,,git,github,linux,flask,vscode,streamlit,mysql" />
+</p>
 ---
 
 ## 🎯 Career Goal
