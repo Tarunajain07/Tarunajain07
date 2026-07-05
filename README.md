@@ -118,7 +118,7 @@ Aspiring Cybersecurity Engineer passionate about building secure, intelligent an
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/taruna-jain-3b04343b7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
