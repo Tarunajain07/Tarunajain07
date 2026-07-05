@@ -1,62 +1,137 @@
-</p><img width="1983" height="793" alt="ChatGPT Image Jul 4, 2026 at 07_39_03 PM" src="https://github.com/user-attachments/assets/3c1eb649-f4c9-42b1-bc57-3f11b8a1189a" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Taruna+Jain;B.Tech+Cybersecurity+Student;AI+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/3c1eb649-f4c9-42b1-bc57-3f11b8a1189a" width="100%" alt="Banner"/>
 </p>
-<h2 align="center">
-Welcome to my GitHub 👋
-</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Taruna+Jain;B.Tech+Cybersecurity+Student;AI+Enthusiast;Software+Developer;Always+Learning+Something+New" />
+</p>
+
+<h2 align="center">Welcome to my GitHub 👋</h2>
+
 <h3 align="center">
-B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
+B.Tech Cybersecurity Student • AI Enthusiast • Software Developer
 </h3>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech Student specializing in Cybersecurity
-- 💻 Passionate about Software Development and Artificial Intelligence
-- 🔒 Interested in Cybersecurity, AI Security, and Secure Application Development
-- 🌱 Currently learning Python, Web Development, Cloud Security, and DevSecOps
-- 🚀 Building real-world AI and Cybersecurity projects
-- 📫 Reach me at **tarunajain075@gmail.com**
-
----
-## 🚀 Projects
-
-### 🛡️ AI SecureOps ( in progress )
-An AI-powered Security Operations platform with packet analysis, anomaly detection, and vulnerability assessment.
-
-### 🤖 AI Vulnerability Scanner ( in progress )
-AI-assisted vulnerability analysis and remediation platform.
-
-### 🔍 Python Security Audit Tool ( in progress ) 
-Automated Python source code security auditing and reporting.
-
-### 💊 Pharmacy Management System
-A full-stack pharmacy management application for inventory and billing.
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,,git,github,linux,flask,vscode,streamlit,mysql" />
+
+<a href="mailto:tarunajain075@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tarunajain07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarunajain07&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunajain07&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+# 👩‍💻 About Me
+
+🎓 B.Tech student specializing in Cybersecurity
+
+💻 Passionate about Software Development & Artificial Intelligence
+
+🔒 Interested in Cybersecurity, AI Security, Cloud Security and DevSecOps
+
+🌱 Currently learning
+
+- Python
+- Flask
+- Web Development
+- Secure Software Development
+- Cloud Security
+
+🚀 Building AI-powered Cybersecurity projects
+
+📫 **Email:** tarunajain075@gmail.com
+
 ---
 
-## 🎯 Career Goal
+# 🚀 Featured Projects
 
-Aspiring Cybersecurity Engineer passionate about building secure, intelligent, and scalable software solutions.
+## 🛡 AI SecureOps *(In Progress)*
 
-## 🌐 Connect With Me
+An AI-powered Security Operations platform featuring
 
-- 💼 LinkedIn
-- 📧 Email: **tarunajain075@gmail.com**
+- Live Packet Capture
+- Traffic Classification
+- AI Anomaly Detection
+- Vulnerability Assessment
+- Secret Scanner
+- Garak AI Testing
+- Interactive Dashboard
+
+---
+
+## 🤖 AI Vulnerability Scanner *(In Progress)*
+
+An AI-powered vulnerability remediation platform that analyzes scanner reports and provides intelligent security recommendations.
+
+---
+
+## 🔍 Python Security Audit Tool *(In Progress)*
+
+Automated Python source code security auditing using AI-assisted vulnerability detection and reporting.
+
+---
+
+## 💊 Pharmacy Management System
+
+A full-stack inventory and billing application developed as an engineering project.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,git,github,linux,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tarunajain07&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tarunajain07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Career Goal
+
+Aspiring Cybersecurity Engineer passionate about building secure, intelligent and scalable software solutions while continuously exploring Artificial Intelligence and Secure Application Development.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tarunajain075@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tarunajain07&label=Profile+Views&color=grey&style=flat"/>
+
+</p>
